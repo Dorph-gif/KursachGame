@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ladder
+  - LevelEnd
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - enemy
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background_1
+    uniqueID: 498269791
+    locked: 0
+  - name: Background_2
+    uniqueID: 1044588001
+    locked: 0
+  - name: Background_3
+    uniqueID: 3553261703
+    locked: 0
+  - name: Background_4
+    uniqueID: 1011963075
+    locked: 0
+  - name: Background_5
+    uniqueID: 332343879
+    locked: 0
+  - name: FoneTiles
+    uniqueID: 300451017
+    locked: 0
+  - name: FoneTileDecorations
+    uniqueID: 2876735157
+    locked: 0
+  - name: Decorations
+    uniqueID: 3923365469
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Hero
+    uniqueID: 1129233937
+    locked: 0
+  - name: FrontDecorations
+    uniqueID: 52952645
+    locked: 0
+  - name: Tiles
+    uniqueID: 1747817737
+    locked: 0
+  - name: FrontTiles
+    uniqueID: 101352929
+    locked: 0
+  - name: GameEnd
+    uniqueID: 495248649
+    locked: 0
